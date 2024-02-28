@@ -1,6 +1,10 @@
 
-https://github.com/AnishMane/Google-Keep-Replica-Project/assets/112772218/689386c7-2d5f-4ea1-8b0c-1ae7ce3d3d17
-Uploading keeperPreview.mp4…
+
+
+https://github.com/AnishMane/Google-Keep-Replica-Project/assets/112772218/cb68d059-ad98-4411-8198-f439688fea45
+
+
+
 Google Keep Replica
 
 📝 Description:
