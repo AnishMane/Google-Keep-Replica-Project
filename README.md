@@ -12,10 +12,15 @@ This project is a replica of Google Keep, a note-taking application developed by
 
 🚀 Features:
 Create Notes: Easily create new notes with titles and content.
+
 Edit Notes: Edit existing notes to update information.
+
 Organize: Categorize notes with labels or color-coding.
+
 Search: Quickly find notes using the search functionality.
+
 Reminders: Set reminders for important notes.
+
 Responsive Design: Ensures optimal viewing and interaction experience across devices.
 
 🛠️ Installation:
